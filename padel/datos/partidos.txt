@@ -1,0 +1,5 @@
+García-López|Martínez-Ruiz|2|1|2025-06-10
+Fernández-Torres|Sánchez-Gómez|2|0|2025-06-10
+Navarro-Díaz|Moreno-Jiménez|1|2|2025-06-11
+Romero-Alonso|Castro-Reyes|2|2|2025-06-11
+Gil-Mora|Pardo-Navarro|0|2|2025-06-12
